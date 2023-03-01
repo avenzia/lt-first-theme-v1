@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="제약이야기" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          바이오-제약 품질(QC/QA) 취업을 위한 공간
         </p>
       </main>
 
